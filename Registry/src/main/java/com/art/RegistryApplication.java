@@ -12,6 +12,7 @@ public class RegistryApplication {
 		SpringApplication.run(RegistryApplication.class, args);
 		System.out.println("Hello to Github added in Node branch");
 		System.out.println("Hello to Github added in Node branch");
+		System.out.println("Pushing to node branch ");
 	}
 
 }
